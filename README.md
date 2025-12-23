@@ -1,9 +1,5 @@
 # age-estimation-notebook
 
-Short description
-
-# age-estimation-notebook
-
 This repository contains the analysis notebook and a minimal demonstration dataset used to reproduce parts of the modelling pipeline from the published work:
 
 Constantinou, C., Chovalopoulou, M.-E., & Nikita, E. (2023). AgeEst: an open access web application for skeletal age-at-death estimation employing machine learning. Forensic Science International: Reports, 7, 100317. DOI: 10.1016/j.fsir.2023.100317
